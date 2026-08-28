@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">E aí! 👋 Sou o João, dev Backend Java • Spring Boot • Microsserviços ☕</h1>
+<h1 data-importer="text" align="center">E aí! 👋 Sou o João, dev Backend Java • Spring Boot ☕</h1>
 
 ###
 
