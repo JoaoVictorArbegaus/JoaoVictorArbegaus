@@ -1,18 +1,18 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
-</div>
+<h1 data-importer="text" align="center">E aí! 👋 Sou o João, dev Backend Java • Spring Boot • Microsserviços ☕</h1>
 
 ###
 
-<h1 data-importer="text" align="center">E aí! 👋 Sou o João, dev Backend Java • Spring Boot ☕</h1>
-
-###
-
-<img data-importer="image" align="right" height="214" src="https://media1.tenor.com/m/EHYzxILmfx0AAAAC/tinkering-tony-stark.gif"  />
+<img data-importer="image" align="right" height="194" src="https://media1.tenor.com/m/EHYzxILmfx0AAAAC/tinkering-tony-stark.gif"  />
 
 ###
 
 <p data-importer="text" align="left">Desenvolvedor Backend Java desde 2023, evoluindo sistemas em ambiente de microsserviços com Spring Boot, Spring Security (JWT), Kafka, PostgreSQL e MongoDB.<br><br>Formado em Ciência da Computação pelo IFSC, construí minha base sólida em arquitetura de software e boas práticas de engenharia, que aplico no dia a dia desenvolvendo e mantendo APIs REST robustas e escaláveis.<br><br>Tenho interesse ativo em IA aplicada ao desenvolvimento, tanto como diferencial profissional quanto por curiosidade pessoal, e busco me manter atualizado sobre como essas ferramentas podem tornar o desenvolvimento de software mais eficiente.</p>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/JoaoVictorArbegaus/JoaoVictorArbegaus/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -31,12 +31,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="52" alt="intellij logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/JoaoVictorArbegaus/JoaoVictorArbegaus/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
