@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Desenvolvedor Backend Java desde 2023, evoluindo sistemas em ambiente de microsserviços com Spring Boot, Spring Security (JWT), Kafka, PostgreSQL e MongoDB.<br><br>Formado em Ciência da Computação pelo IFSC, construí minha base sólida em arquitetura de software e boas práticas de engenharia, que aplico no dia a dia desenvolvendo e mantendo APIs REST robustas e escaláveis.<br><br>Tenho interesse ativo em IA aplicada ao desenvolvimento, tanto como diferencial profissional quanto por curiosidade pessoal, e busco me manter atualizado sobre como essas ferramentas podem tornar o desenvolvimento de software mais eficiente.</p>
+<p data-importer="text" align="left">Desenvolvedor Backend Java desde 2023, evoluindo sistemas em ambiente de monolito e microsserviços com Spring Boot, Spring Security (JWT), Kafka, PostgreSQL e MongoDB.<br><br>Formado em Ciência da Computação pelo IFSC, construí minha base sólida em arquitetura de software e boas práticas de engenharia, que aplico no dia a dia desenvolvendo e mantendo APIs REST robustas e escaláveis.<br><br>Tenho interesse ativo em IA aplicada ao desenvolvimento, tanto como diferencial profissional quanto por curiosidade pessoal, e busco me manter atualizado sobre como essas ferramentas podem tornar o desenvolvimento de software mais eficiente.</p>
 
 ###
 
